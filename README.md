@@ -1,2 +1,2 @@
 # PythonHOSVD
-Sometimes Matlab is not enough, especially when you deal with Component Analysis.
+Component Analysis is easier in Python.
